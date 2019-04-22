@@ -1,0 +1,14 @@
+User
+CRUD user
+Add owner to panel
+	idPAnel
+	owning date
+	user
+Display pannels by owner
+	idOwer
+Display all faces by panel for an owner
+	idOwner
+Display all avialable faces
+	idOwner
+Display all unavailable faces
+	idOwner
